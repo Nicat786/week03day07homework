@@ -1,0 +1,103 @@
+body{
+	font-family: "Lato";
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+}
+#arxaFon{
+	background: url("../image/header_bg.jpg") no-repeat center top;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+	background-size: cover;
+	min-height: 650px
+	
+}
+#arxaFon p{
+	margin-top: 450px;
+	color: #ffffff;
+    font-size: 40px;
+    text-align: center;
+    line-height: 40px;
+    margin-left: 15px;
+}
+.infoPanel div{
+	background-color: #F5F5F5;
+	height: 300px;
+	text-align: center;
+	color: #555555
+}
+.infoPanel i{
+	padding: 20px;
+	font-size: 3em;
+}
+.infoPanel p{
+	text-align: center;
+	font-size: 1.4em
+}
+.aboutAgency{
+	height: 400px;
+}
+.aboutAgency h1{
+	text-align: center;
+}
+.aboutAgency hr{
+    width: 50%;
+    height: 2px;
+    background: #ccc;
+}
+.aboutAgency p{
+	padding:25px 0px 45px 45px;
+}
+.design{
+	background: url("../image/bg/divider1.jpg");
+	width: 100%;
+	height: 450px;
+	text-align: center;
+}
+.design h1{
+	margin-top: 100px;
+	color: white;
+	font-size: 2.5em;
+}
+.design hr{
+	width: 50%;
+    height: 1.5px;
+    background: #ccc;
+}
+.design p{
+	color: white;
+	font-size: 1.5em
+
+}
+.tekst1 h2{
+	margin-top: 50px;
+	text-align: center;
+}
+.tekst1 hr{
+	width: 50%;
+    height: 1.5px;
+    background: #ccc;
+}
+.tekst1 div:nth-child(2) p{
+	margin: 50px 0
+}
+.interaction{
+	background: url("../image/bg/divider2.jpg");
+	width: 100%;
+	text-align: center;
+	background-size: cover;
+	min-height: 350px
+}
+.interaction h1{
+	margin:50px;
+	color: white;
+	text-align: center;
+}
+.interaction hr{
+	width: 50%;
+    height: 1.5px;
+    background: white;
+    color: white;
+}
+
